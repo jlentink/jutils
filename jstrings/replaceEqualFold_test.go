@@ -1,4 +1,4 @@
-package jstings
+package jstrings
 
 import (
 	"testing"

@@ -1,4 +1,4 @@
-package jstings
+package jstrings
 
 import (
 	"github.com/jlentink/jutils/jslices"
